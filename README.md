@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Limitless - Go Beyond Your Mind's Limitations
+
+Limitless is a Next.js project that showcases a personalized AI-powered application designed to enhance your cognitive abilities and productivity.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Responsive design with mobile-friendly navigation
+- Interactive UI components using Framer Motion animations
+- Personalized AI assistant for meetings and conversations
+- Wearable AI device integration
+- User authentication with Supabase
 
 ## Getting Started
 
