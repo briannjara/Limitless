@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const Pod = () => {
   return (
@@ -9,9 +10,11 @@ const Pod = () => {
         ))}
       </div>
       <div className='w-full md:w-[35%] lg:w-[30%] h-[400px] rounded-md shadow-lg'>
-        <img 
+        <Image 
           src={`https://res.cloudinary.com/dicxuebms/image/upload/v1727796597/ebxmrjyv8bzr1ivzif3z.webp`} 
-          alt="" 
+          alt="Pod image" 
+          width={500} // Adjust this value as needed
+          height={400} // Adjust this value as needed
           className='w-full h-full object-contain' 
         />
       </div>

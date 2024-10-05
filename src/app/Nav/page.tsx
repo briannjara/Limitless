@@ -9,9 +9,7 @@ const Nav = () => {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
-  const toggleMobileMenu = () => {
-    setMobileMenuOpen(!isMobileMenuOpen);
-  };
+  // const toggleMobileMenu = () => setMobileMenuOpen(!isMobileMenuOpen);
 
   const handleScroll = () => {
     setIsScrolled(window.scrollY > 0);
