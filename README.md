@@ -28,7 +28,7 @@ Limitless is a Next.js project that showcases a personalized AI-powered applicat
 ## Contributing
 
 ### Main Contributor:
-- [Harflexdevas](https://github.com/Harflexdevas)
+- [Harflexdevas](https://github.com/Harflexdev)
 
 ### Contributor:
 - [briannjara](https://github.com/briannjara)
