@@ -24,6 +24,15 @@ Limitless is a Next.js project that showcases a personalized AI-powered applicat
 - Wearable AI device integration
 - User authentication with Supabase
 
+
+## Contributing
+
+### Main Contributor:
+- [Harflexdevas](https://github.com/Harflexdevas)
+
+### Contributor:
+- [briannjara](https://github.com/briannjara)
+
 ## Getting Started
 
 First, run the development server:
