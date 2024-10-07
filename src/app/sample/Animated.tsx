@@ -14,31 +14,30 @@ interface Item {
 let notifications = [
   {
     name: "Payment received",
-    description: "Magic UI",
+    description: "$500 from John Doe",
     time: "15m ago",
-
-    icon: "💸",
+    icon: "💰",
     color: "#00C9A7",
   },
   {
     name: "User signed up",
-    description: "Magic UI",
+    description: "New account: sarah@example.com",
     time: "10m ago",
-    icon: "👤",
+    icon: "🔐",
     color: "#FFB800",
   },
   {
     name: "New message",
-    description: "Magic UI",
+    description: "From: Alex - 'Hey, can we meet tomorrow?'",
     time: "5m ago",
-    icon: "💬",
+    icon: "📩",
     color: "#FF3D71",
   },
   {
     name: "New event",
-    description: "Magic UI",
+    description: "Team meeting scheduled for 3 PM",
     time: "2m ago",
-    icon: "🗞️",
+    icon: "📅",
     color: "#1E86FF",
   },
 ];

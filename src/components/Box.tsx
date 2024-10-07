@@ -24,7 +24,7 @@ const Box = () => {
             alt="AI Device Features"  
             width={400}
             height={350}
-            className='w-full h-full rounded-md rotate object-contain transition-transform hover:scale-110'
+            className='w-full h-full rounded-md object-contain transition-transform hover:scale-110 transform rotate-3'
           />
         </div>
       </div>
